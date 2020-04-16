@@ -1,0 +1,56 @@
+h1 {
+    color:blue;
+    text-align:center;
+    background-color: palegreen;
+}
+
+p {
+    color:red;
+    text-align: center;
+    
+}
+
+div{
+    border: 3px solid blue;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      font-size:14px;
+        width: 200px;
+	    height: 200px;
+			margin:30px;
+			padding: 20px;
+
+}
+#first {
+  background-color: crimson;
+    
+}
+#second {
+  background-color: blue;
+    
+}
+#third {
+  background-color: yellow;
+    
+}
+
+
+table {
+  border: 2px solid black;
+  width: 50%;
+}
+td{
+  border:5px dotted greenyellow;
+  background-color: goldenrod;
+
+}
+
+th{
+  border:2px dotted blue;
+  background-color: gray;
+}
+.name {
+ background-color: orange;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: whitesmoke;
+}
